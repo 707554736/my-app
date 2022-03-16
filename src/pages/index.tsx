@@ -33,7 +33,7 @@ export default () => (
             },
             {
               path: '/home/search',
-              name: '资源',
+              name: '学习笔记',
               icon: <BankOutlined />,
             },
           ],
