@@ -27941,7 +27941,7 @@
                 },
                 {
                   path: '/home/search',
-                  name: '\u8d44\u6e90',
+                  name: '\u5b66\u4e60\u7b14\u8bb0',
                   icon: Object(sv['jsx'])(uv, {
                     'data-inspector-line': '37',
                     'data-inspector-column': '20',
